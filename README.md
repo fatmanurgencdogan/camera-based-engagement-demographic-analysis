@@ -129,8 +129,8 @@ This project follows a privacy-aware design principle. Camera frames are process
 
 ## Author
 
-**Fatma Nur Gençdoğan**
-Computer Engineering Student
+**Fatma Nur Gençdoğan**,
+Computer Engineering Student,
 Çukurova University
 
 ## Advisor
