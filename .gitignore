@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and runtime outputs
+logs/
+outputs/
+runs/
+*.log
+
+# Datasets and raw data
+datasets/
+data/raw/
+data/images/
+data/videos/
+archive/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+
+# Temporary files
+*.tmp
+*.bak
