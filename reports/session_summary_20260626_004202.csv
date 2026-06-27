@@ -1,0 +1,2 @@
+session_id,visitor_count,total_records,avg_duration_seconds,avg_front_facing_ratio_percent,avg_max_continuous_facing_seconds,most_common_age_group,most_common_gender,most_common_interest
+20260626_004202,1,21,21.0,95.24,10.17,young,female,high_interest

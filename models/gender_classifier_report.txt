@@ -1,0 +1,25 @@
+Task: gender
+Model: MobileNetV3-Small
+Best val accuracy: 0.8671
+Final val accuracy: 0.8671
+
+Training history:
+Epoch 1: train_loss=0.5522, train_acc=0.7065, val_loss=0.6042, val_acc=0.7206
+Epoch 2: train_loss=0.4193, train_acc=0.8066, val_loss=0.3617, val_acc=0.8391
+Epoch 3: train_loss=0.3666, train_acc=0.8322, val_loss=0.3308, val_acc=0.8480
+Epoch 4: train_loss=0.3369, train_acc=0.8496, val_loss=0.3314, val_acc=0.8492
+Epoch 5: train_loss=0.3191, train_acc=0.8589, val_loss=0.3059, val_acc=0.8671
+
+Confusion matrix:
+[[2115  363]
+ [ 267 1997]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+        male       0.89      0.85      0.87      2478
+      female       0.85      0.88      0.86      2264
+
+    accuracy                           0.87      4742
+   macro avg       0.87      0.87      0.87      4742
+weighted avg       0.87      0.87      0.87      4742

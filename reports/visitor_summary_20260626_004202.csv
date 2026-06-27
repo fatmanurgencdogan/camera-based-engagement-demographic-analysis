@@ -1,0 +1,2 @@
+session_id,visitor_id,start_time,end_time,duration_seconds,front_facing_seconds,not_facing_seconds,front_facing_ratio_percent,max_continuous_facing_seconds,dominant_interest_level,highest_interest_level_reached,dominant_age_group,average_age_confidence,dominant_gender,average_gender_confidence,record_count
+20260626_004202,visitor_001,2026-06-26 00:42:04,2026-06-26 00:42:24,21.0,20,1,95.24,10.17,high_interest,high_interest,young,0.71,female,0.7347,21

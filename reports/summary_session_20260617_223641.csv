@@ -1,0 +1,2 @@
+log_file,total_records,front_facing_count,not_facing_count,front_facing_ratio_percent,not_facing_ratio_percent,max_facing_time_seconds,average_facing_time_seconds,most_common_orientation,most_common_interest_level
+session_20260617_223641.csv,22,16,6,72.73,27.27,6.25,1.69,front_facing,low_interest

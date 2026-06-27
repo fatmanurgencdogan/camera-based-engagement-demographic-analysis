@@ -1,0 +1,27 @@
+Task: age_group
+Model: MobileNetV3-Small
+Best val accuracy: 0.7836
+Final val accuracy: 0.7836
+
+Training history:
+Epoch 1: train_loss=0.8136, train_acc=0.5998, val_loss=0.8478, val_acc=0.5314
+Epoch 2: train_loss=0.6308, train_acc=0.7126, val_loss=0.5558, val_acc=0.7531
+Epoch 3: train_loss=0.5656, train_acc=0.7472, val_loss=0.5225, val_acc=0.7651
+Epoch 4: train_loss=0.5204, train_acc=0.7700, val_loss=0.5064, val_acc=0.7794
+Epoch 5: train_loss=0.4953, train_acc=0.7818, val_loss=0.4892, val_acc=0.7836
+
+Confusion matrix:
+[[ 517  127   38]
+ [  21 1839  479]
+ [   1  360 1360]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+       child       0.96      0.76      0.85       682
+       young       0.79      0.79      0.79      2339
+         old       0.72      0.79      0.76      1721
+
+    accuracy                           0.78      4742
+   macro avg       0.82      0.78      0.80      4742
+weighted avg       0.79      0.78      0.79      4742
